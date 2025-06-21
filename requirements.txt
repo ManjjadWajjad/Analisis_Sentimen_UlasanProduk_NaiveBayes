@@ -1,6 +1,9 @@
 streamlit
 pandas
-emoji
-nltk
-sastrawi
+numpy
 scikit-learn
+seaborn
+matplotlib
+sastrawi
+nltk
+emoji
